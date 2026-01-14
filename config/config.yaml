@@ -1,0 +1,72 @@
+# Configuration du Pipeline de Procurement
+
+# Paramètres HDFS
+hdfs:
+  namenode: "namenode"
+  port: "9000"
+  base_path: "/procurement"
+  
+  paths:
+    raw_orders: "/procurement/raw/orders"
+    raw_stock: "/procurement/raw/stock"
+    processed_aggregated: "/procurement/processed/aggregated_orders"
+    processed_net_demand: "/procurement/processed/net_demand"
+    output_orders: "/procurement/output/supplier_orders"
+    logs: "/procurement/logs"
+
+# Paramètres Base de Données
+database:
+  postgres:
+    host: "procurement_postgres"
+    port: 5432
+    database: "procurement_db"
+    user: "postgres"
+    password: "postgres"
+    table_products: "products"
+    table_suppliers: "suppliers"
+
+# Paramètres de Calcul
+calculation:
+  net_demand_formula: "max(0, demand + safety_stock - available_stock)"
+  rounding_method: "round_up_to_pack_size"
+  lead_time_days: 2
+  min_order_quantity_enforcement: true
+  
+# Paramètres de Stock
+stock:
+  default_safety_stock: 10
+  low_stock_threshold: 20
+  critical_stock_threshold: 5
+
+# Paramètres du Pipeline
+pipeline:
+  batch_window_start: "22:00"
+  batch_window_end: "23:00"
+  max_processing_time_minutes: 60
+  retention_days: 30
+  enable_history_replay: true
+  
+# Logging
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(levelname)s - %(message)s"
+  file_path: "logs/pipeline.log"
+  hdfs_log_path: "/procurement/logs/pipeline"
+  
+# Formats de Fichiers
+file_formats:
+  input:
+    orders: "csv"
+    stock: "csv"
+    products: "csv"
+  output:
+    aggregated_orders: "csv"
+    net_demand: "csv"
+    supplier_orders: "json"
+    
+# Paramètres de Test
+test:
+  generate_sample_data: true
+  sample_size_orders: 1000
+  sample_size_products: 100
+  force_orders_generation: false

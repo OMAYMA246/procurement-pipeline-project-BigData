@@ -1,0 +1,2 @@
+sku,total_quantity,product_name,available_stock,reserved_stock,supplier_id,pack_size,moq,safety_stock,net_demand,order_quantity
+SKU00006,105,Huile Enfin,160,14,2,1,5,68,27,27

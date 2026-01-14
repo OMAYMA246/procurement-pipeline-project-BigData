@@ -1,0 +1,26 @@
+trino:
+  coordinator_host: "trino-coordinator"
+  coordinator_port: 8080
+  user: "admin"
+  
+  catalogs:
+    hdfs:
+      name: "hdfs"
+      connector: "hive"
+      hive:
+        metastore_uri: "thrift://hive-metastore:9083"
+        warehouse_dir: "hdfs://namenode:9000/user/hive/warehouse"
+        s3_aws_access_key: ""
+        s3_aws_secret_key: ""
+        
+    postgresql:
+      name: "postgresql"
+      connector: "postgresql"
+      connection_url: "jdbc:postgresql://procurement_postgres:5432/procurement_db"
+      connection_user: "postgres"
+      connection_password: "postgres"
+  
+  schemas:
+    raw: "procurement_raw"
+    processed: "procurement_processed"
+    output: "procurement_output"

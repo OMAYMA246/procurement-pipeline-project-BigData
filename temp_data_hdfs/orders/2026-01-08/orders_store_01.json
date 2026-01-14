@@ -1,0 +1,2714 @@
+[
+  {
+    "order_id": "ORD-2026-01-08-S01-0001",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "19:17:15",
+    "customer_id": "bdd640fb-0667-4ad1-9c80-317fa3b1799d",
+    "items": [
+      {
+        "sku": "SKU00033",
+        "product_name": "Sauce tomate Réunir",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0002",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "19:06:43",
+    "customer_id": "23b8c1e9-3924-46de-beb1-3b9046685257",
+    "items": [
+      {
+        "sku": "SKU00081",
+        "product_name": "Crème Pleurer",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00098",
+        "product_name": "Lingettes Discuter",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00001",
+        "product_name": "Boeuf Oreille",
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0003",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "8:01:05",
+    "customer_id": "bd9c66b3-ad3c-4d6d-9a3d-1fa7bc8960a9",
+    "items": [
+      {
+        "sku": "SKU00099",
+        "product_name": "Poulet Gauche",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00015",
+        "product_name": "Crème Accuser",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00071",
+        "product_name": "Thon Chaleur",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00006",
+        "product_name": "Huile Enfin",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00023",
+        "product_name": "Pâtes Inconnu",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00018",
+        "product_name": "Liquide vaisselle Sourire",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00011",
+        "product_name": "Frites Remonter",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0004",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "14:14:28",
+    "customer_id": "972a8469-1641-4f82-8b9d-2434e465e150",
+    "items": [
+      {
+        "sku": "SKU00001",
+        "product_name": "Boeuf Oreille",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00036",
+        "product_name": "Crème Étage",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00084",
+        "product_name": "Crème Baisser",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00033",
+        "product_name": "Sauce tomate Réunir",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00056",
+        "product_name": "Lait infantile Chien",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00019",
+        "product_name": "Liquide vaisselle Baisser",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00038",
+        "product_name": "Sauce tomate Montrer",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00026",
+        "product_name": "Thon Espace",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00028",
+        "product_name": "Carottes Tranquille",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0005",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "9:05:24",
+    "customer_id": "17fc695a-07a0-4a6e-8822-e8f36c031199",
+    "items": [
+      {
+        "sku": "SKU00082",
+        "product_name": "Beurre Également",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00062",
+        "product_name": "Huile Côté",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00086",
+        "product_name": "Éponges Manier",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00069",
+        "product_name": "Glace Pain",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00088",
+        "product_name": "Yaourt Mémoire",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00096",
+        "product_name": "Lessive Point",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0006",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "16:07:59",
+    "customer_id": "9a1de644-815e-46d1-bb8f-aa1837f8a88b",
+    "items": [
+      {
+        "sku": "SKU00059",
+        "product_name": "Glace Disparaître",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00003",
+        "product_name": "Biscuits Part",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00092",
+        "product_name": "Shampoing Nord",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00078",
+        "product_name": "Thon Dehors",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00017",
+        "product_name": "Soda Vol",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00001",
+        "product_name": "Boeuf Oreille",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00096",
+        "product_name": "Lessive Point",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00023",
+        "product_name": "Pâtes Inconnu",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0007",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "8:42:14",
+    "customer_id": "b74d0fb1-32e7-4629-8fad-c1a606cb0fb3",
+    "items": [
+      {
+        "sku": "SKU00064",
+        "product_name": "Pâtes Deviner",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00059",
+        "product_name": "Glace Disparaître",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0008",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "21:06:24",
+    "customer_id": "6b65a6a4-8b81-48f6-b38a-088ca65ed389",
+    "items": [
+      {
+        "sku": "SKU00061",
+        "product_name": "Savon Parent",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00017",
+        "product_name": "Soda Vol",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00071",
+        "product_name": "Thon Chaleur",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00030",
+        "product_name": "Pommes Eh",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0009",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "13:13:42",
+    "customer_id": "47378190-96da-4dac-b2ff-5d2a386ecbe0",
+    "items": [
+      {
+        "sku": "SKU00024",
+        "product_name": "Oranges Boire",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00062",
+        "product_name": "Huile Côté",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00060",
+        "product_name": "Savon Ramasser",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00016",
+        "product_name": "Crème Boire",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00035",
+        "product_name": "Biscuits Peur",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00055",
+        "product_name": "Conserves Inviter",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0010",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "15:24:17",
+    "customer_id": "c241330b-01a9-471f-9e8a-774bcf36d58b",
+    "items": [
+      {
+        "sku": "SKU00051",
+        "product_name": "Thé Tant",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00039",
+        "product_name": "Crevettes Disparaître",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00011",
+        "product_name": "Frites Remonter",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0011",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "11:52:02",
+    "customer_id": "6c307511-b2b9-437a-a8df-6ec4ce4a2bbd",
+    "items": [
+      {
+        "sku": "SKU00094",
+        "product_name": "Poisson pané Rencontrer",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0012",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "12:04:13",
+    "customer_id": "371ecd7b-27cd-4130-8722-9389571aa876",
+    "items": [
+      {
+        "sku": "SKU00009",
+        "product_name": "Tomates Ami",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00011",
+        "product_name": "Frites Remonter",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00020",
+        "product_name": "Riz Ensuite",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00005",
+        "product_name": "Porc Étonner",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00041",
+        "product_name": "Crème Chair",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00054",
+        "product_name": "Sel Moins",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00018",
+        "product_name": "Liquide vaisselle Sourire",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0013",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "10:15:47",
+    "customer_id": "1a2a73ed-562b-4f79-8374-59eef50bea63",
+    "items": [
+      {
+        "sku": "SKU00072",
+        "product_name": "Crevettes Autorité",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00049",
+        "product_name": "Légumes surgelés Trésor",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00029",
+        "product_name": "Nettoyant Poids",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00026",
+        "product_name": "Thon Espace",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00068",
+        "product_name": "Crème Bras",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0014",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "14:23:14",
+    "customer_id": "5be6128e-18c2-4797-a142-ea7d17be3111",
+    "items": [
+      {
+        "sku": "SKU00003",
+        "product_name": "Biscuits Part",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00063",
+        "product_name": "Thé Nommer",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00055",
+        "product_name": "Conserves Inviter",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00082",
+        "product_name": "Beurre Également",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00049",
+        "product_name": "Légumes surgelés Trésor",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00094",
+        "product_name": "Poisson pané Rencontrer",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00023",
+        "product_name": "Pâtes Inconnu",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00016",
+        "product_name": "Crème Boire",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00002",
+        "product_name": "Crème Projet",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00098",
+        "product_name": "Lingettes Discuter",
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0015",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "14:24:38",
+    "customer_id": "43b7a3a6-9a8d-4a03-980d-7b71d8f56413",
+    "items": [
+      {
+        "sku": "SKU00089",
+        "product_name": "Biscuits Faute",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00044",
+        "product_name": "Bananes Lentement",
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0016",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "16:55:00",
+    "customer_id": "759cde66-bacf-43d0-8b1f-9163ce9ff57f",
+    "items": [
+      {
+        "sku": "SKU00042",
+        "product_name": "Confiture Toit",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00094",
+        "product_name": "Poisson pané Rencontrer",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00065",
+        "product_name": "Poisson pané Flot",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00028",
+        "product_name": "Carottes Tranquille",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00052",
+        "product_name": "Légumes surgelés Chambre",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0017",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "14:10:29",
+    "customer_id": "ec1b8ca1-f91e-4d4c-9ff4-9b7889463e85",
+    "items": [
+      {
+        "sku": "SKU00077",
+        "product_name": "Nettoyant Éprouver",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00070",
+        "product_name": "Dentifrice Rejoindre",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00002",
+        "product_name": "Crème Projet",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00007",
+        "product_name": "Jus Beau",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00009",
+        "product_name": "Tomates Ami",
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0018",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "21:40:19",
+    "customer_id": "4b0dbb41-8d52-48f1-942c-3fe860e7a113",
+    "items": [
+      {
+        "sku": "SKU00020",
+        "product_name": "Riz Ensuite",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00041",
+        "product_name": "Crème Chair",
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0019",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "10:23:48",
+    "customer_id": "e2acf72f-9e57-4f7a-a0ee-89aed453dd32",
+    "items": [
+      {
+        "sku": "SKU00030",
+        "product_name": "Pommes Eh",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00095",
+        "product_name": "Boeuf Toucher",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00094",
+        "product_name": "Poisson pané Rencontrer",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00060",
+        "product_name": "Savon Ramasser",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0020",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "13:31:01",
+    "customer_id": "3139d32c-93cd-49bf-9c94-1cf0dc98d2c1",
+    "items": [
+      {
+        "sku": "SKU00039",
+        "product_name": "Crevettes Disparaître",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00076",
+        "product_name": "Lingettes Certainement",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00012",
+        "product_name": "Boeuf Entourer",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00082",
+        "product_name": "Beurre Également",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00026",
+        "product_name": "Thon Espace",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00066",
+        "product_name": "Soda Peau",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00022",
+        "product_name": "Savon Approcher",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00049",
+        "product_name": "Légumes surgelés Trésor",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00015",
+        "product_name": "Crème Accuser",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00002",
+        "product_name": "Crème Projet",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0021",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "20:34:49",
+    "customer_id": "a9488d99-0bbb-4599-91ce-5dd2b45ed1f0",
+    "items": [
+      {
+        "sku": "SKU00047",
+        "product_name": "Saumon Perdu",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00100",
+        "product_name": "Sucre Émotion",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0022",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "16:10:16",
+    "customer_id": "fc377a4c-4a15-444d-85e7-ce8a3a578a8e",
+    "items": [
+      {
+        "sku": "SKU00012",
+        "product_name": "Boeuf Entourer",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00076",
+        "product_name": "Lingettes Certainement",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00070",
+        "product_name": "Dentifrice Rejoindre",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00045",
+        "product_name": "Thon Note",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00080",
+        "product_name": "Confiture Poids",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00056",
+        "product_name": "Lait infantile Chien",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00081",
+        "product_name": "Crème Pleurer",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00059",
+        "product_name": "Glace Disparaître",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0023",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "15:57:33",
+    "customer_id": "ddd1dfb2-3b98-4ef8-9af6-1a26146d3f31",
+    "items": [
+      {
+        "sku": "SKU00014",
+        "product_name": "Eau En",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00022",
+        "product_name": "Savon Approcher",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00087",
+        "product_name": "Confiture Absence",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00084",
+        "product_name": "Crème Baisser",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00092",
+        "product_name": "Shampoing Nord",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00044",
+        "product_name": "Bananes Lentement",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0024",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "17:35:14",
+    "customer_id": "7412b293-4729-4739-a14f-f3d719db3ad0",
+    "items": [
+      {
+        "sku": "SKU00018",
+        "product_name": "Liquide vaisselle Sourire",
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0025",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "8:04:45",
+    "customer_id": "29a3b2e9-5d65-4441-9588-42dea2bc372f",
+    "items": [
+      {
+        "sku": "SKU00084",
+        "product_name": "Crème Baisser",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00010",
+        "product_name": "Déodorant Saisir",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00082",
+        "product_name": "Beurre Également",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00011",
+        "product_name": "Frites Remonter",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0026",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "9:32:15",
+    "customer_id": "ab9099a4-35a2-40ae-9af3-05535ec42e08",
+    "items": [
+      {
+        "sku": "SKU00016",
+        "product_name": "Crème Boire",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00055",
+        "product_name": "Conserves Inviter",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00026",
+        "product_name": "Thon Espace",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00097",
+        "product_name": "Huile Curiosité",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00100",
+        "product_name": "Sucre Émotion",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00013",
+        "product_name": "Petits pots Saison",
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0027",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "15:15:50",
+    "customer_id": "aefcfad8-efc8-4849-b3aa-7efe4458a885",
+    "items": [
+      {
+        "sku": "SKU00090",
+        "product_name": "Laitue Parvenir",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00072",
+        "product_name": "Crevettes Autorité",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00084",
+        "product_name": "Crème Baisser",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00071",
+        "product_name": "Thon Chaleur",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00042",
+        "product_name": "Confiture Toit",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00056",
+        "product_name": "Lait infantile Chien",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00041",
+        "product_name": "Crème Chair",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00040",
+        "product_name": "Biscuits Cerveau",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00098",
+        "product_name": "Lingettes Discuter",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00025",
+        "product_name": "Conserves Problème",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0028",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "18:41:41",
+    "customer_id": "a28defe3-9bf0-4273-9247-6f57a5e5a5ab",
+    "items": [
+      {
+        "sku": "SKU00084",
+        "product_name": "Crème Baisser",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0029",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "14:46:21",
+    "customer_id": "3eabedcb-baa8-4dd4-88bd-64072bcfbe01",
+    "items": [
+      {
+        "sku": "SKU00088",
+        "product_name": "Yaourt Mémoire",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0030",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "11:12:34",
+    "customer_id": "451b4cf3-6123-4df7-b656-af7229d4beef",
+    "items": [
+      {
+        "sku": "SKU00088",
+        "product_name": "Yaourt Mémoire",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00059",
+        "product_name": "Glace Disparaître",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00047",
+        "product_name": "Saumon Perdu",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00017",
+        "product_name": "Soda Vol",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0031",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "15:15:55",
+    "customer_id": "b02b61c4-a3d7-4628-ace6-6fa2fd5166e6",
+    "items": [
+      {
+        "sku": "SKU00001",
+        "product_name": "Boeuf Oreille",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00006",
+        "product_name": "Huile Enfin",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00035",
+        "product_name": "Biscuits Peur",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00033",
+        "product_name": "Sauce tomate Réunir",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00017",
+        "product_name": "Soda Vol",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0032",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "21:00:05",
+    "customer_id": "5304317f-af42-412f-b838-b3268e944239",
+    "items": [
+      {
+        "sku": "SKU00097",
+        "product_name": "Huile Curiosité",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00002",
+        "product_name": "Crème Projet",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00064",
+        "product_name": "Pâtes Deviner",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00094",
+        "product_name": "Poisson pané Rencontrer",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00012",
+        "product_name": "Boeuf Entourer",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00091",
+        "product_name": "Lait infantile Fortune",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00085",
+        "product_name": "Biscuits Défendre",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00011",
+        "product_name": "Frites Remonter",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00052",
+        "product_name": "Légumes surgelés Chambre",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0033",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "8:24:16",
+    "customer_id": "0e51f30d-c6a7-4e39-84b0-32ccd7c524a5",
+    "items": [
+      {
+        "sku": "SKU00079",
+        "product_name": "Éponges Monter",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00028",
+        "product_name": "Carottes Tranquille",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00100",
+        "product_name": "Sucre Émotion",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00059",
+        "product_name": "Glace Disparaître",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00001",
+        "product_name": "Boeuf Oreille",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00091",
+        "product_name": "Lait infantile Fortune",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00002",
+        "product_name": "Crème Projet",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0034",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "11:03:37",
+    "customer_id": "ce177b4e-0837-48a3-9261-a7ab3aa2e4f9",
+    "items": [
+      {
+        "sku": "SKU00050",
+        "product_name": "Oranges Terminer",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00018",
+        "product_name": "Liquide vaisselle Sourire",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00049",
+        "product_name": "Légumes surgelés Trésor",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00040",
+        "product_name": "Biscuits Cerveau",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00068",
+        "product_name": "Crème Bras",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0035",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "15:32:58",
+    "customer_id": "10f1bc81-448a-4a9e-a6b2-bc5b50c187fc",
+    "items": [
+      {
+        "sku": "SKU00098",
+        "product_name": "Lingettes Discuter",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00032",
+        "product_name": "Conserves Conscience",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00026",
+        "product_name": "Thon Espace",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00013",
+        "product_name": "Petits pots Saison",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00048",
+        "product_name": "Biscuits Avancer",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00018",
+        "product_name": "Liquide vaisselle Sourire",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00022",
+        "product_name": "Savon Approcher",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00061",
+        "product_name": "Savon Parent",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00009",
+        "product_name": "Tomates Ami",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00064",
+        "product_name": "Pâtes Deviner",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0036",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "9:56:36",
+    "customer_id": "9132b63e-f162-47e4-a9c3-49e03602f8ac",
+    "items": [
+      {
+        "sku": "SKU00013",
+        "product_name": "Petits pots Saison",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00087",
+        "product_name": "Confiture Absence",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00089",
+        "product_name": "Biscuits Faute",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00074",
+        "product_name": "Confiture Rassurer",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00046",
+        "product_name": "Biscuits Moyen",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00095",
+        "product_name": "Boeuf Toucher",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00082",
+        "product_name": "Beurre Également",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0037",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "17:33:20",
+    "customer_id": "366eb16f-508e-4ad7-b7c9-3acfe059a0ee",
+    "items": [
+      {
+        "sku": "SKU00080",
+        "product_name": "Confiture Poids",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00011",
+        "product_name": "Frites Remonter",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00015",
+        "product_name": "Crème Accuser",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00077",
+        "product_name": "Nettoyant Éprouver",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00030",
+        "product_name": "Pommes Eh",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00086",
+        "product_name": "Éponges Manier",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00004",
+        "product_name": "Saumon Comme",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00026",
+        "product_name": "Thon Espace",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00033",
+        "product_name": "Sauce tomate Réunir",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00056",
+        "product_name": "Lait infantile Chien",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0038",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "8:29:39",
+    "customer_id": "e27a984d-6548-41d0-bfcd-9eb1a7cad415",
+    "items": [
+      {
+        "sku": "SKU00057",
+        "product_name": "Lait Étrange",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00038",
+        "product_name": "Sauce tomate Montrer",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0039",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "16:13:32",
+    "customer_id": "24933b83-7577-40a9-a491-f0b2ea1fca65",
+    "items": [
+      {
+        "sku": "SKU00052",
+        "product_name": "Légumes surgelés Chambre",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00095",
+        "product_name": "Boeuf Toucher",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0040",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "9:56:15",
+    "customer_id": "beb79919-3f22-4af8-a3be-d01d43cf2fde",
+    "items": [
+      {
+        "sku": "SKU00005",
+        "product_name": "Porc Étonner",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00076",
+        "product_name": "Lingettes Certainement",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00022",
+        "product_name": "Savon Approcher",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00097",
+        "product_name": "Huile Curiosité",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00095",
+        "product_name": "Boeuf Toucher",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00024",
+        "product_name": "Oranges Boire",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0041",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "20:41:33",
+    "customer_id": "bf3c4c06-4343-48bc-89fa-6a688fb5d27b",
+    "items": [
+      {
+        "sku": "SKU00092",
+        "product_name": "Shampoing Nord",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00026",
+        "product_name": "Thon Espace",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00014",
+        "product_name": "Eau En",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00023",
+        "product_name": "Pâtes Inconnu",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00015",
+        "product_name": "Crème Accuser",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00075",
+        "product_name": "Couches Aide",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00058",
+        "product_name": "Lingettes Distinguer",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00046",
+        "product_name": "Biscuits Moyen",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00095",
+        "product_name": "Boeuf Toucher",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00055",
+        "product_name": "Conserves Inviter",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0042",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "12:38:13",
+    "customer_id": "956269f0-e5d7-4875-adad-d6c795a76d79",
+    "items": [
+      {
+        "sku": "SKU00088",
+        "product_name": "Yaourt Mémoire",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00035",
+        "product_name": "Biscuits Peur",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00048",
+        "product_name": "Biscuits Avancer",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00025",
+        "product_name": "Conserves Problème",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00031",
+        "product_name": "Porc Rapport",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0043",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "21:03:05",
+    "customer_id": "ff50bde4-3825-47b8-9cab-cc97663f1c97",
+    "items": [
+      {
+        "sku": "SKU00065",
+        "product_name": "Poisson pané Flot",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00043",
+        "product_name": "Nettoyant Occasion",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00029",
+        "product_name": "Nettoyant Poids",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00096",
+        "product_name": "Lessive Point",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00023",
+        "product_name": "Pâtes Inconnu",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0044",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "18:16:10",
+    "customer_id": "7e570ddf-8270-40a8-a369-b584ff5e9ff0",
+    "items": [
+      {
+        "sku": "SKU00070",
+        "product_name": "Dentifrice Rejoindre",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00001",
+        "product_name": "Boeuf Oreille",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00012",
+        "product_name": "Boeuf Entourer",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0045",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "8:07:04",
+    "customer_id": "dc713d96-0c0f-4195-817a-f08a1745d6d8",
+    "items": [
+      {
+        "sku": "SKU00065",
+        "product_name": "Poisson pané Flot",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00002",
+        "product_name": "Crème Projet",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00037",
+        "product_name": "Chocolat Peur",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00082",
+        "product_name": "Beurre Également",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00092",
+        "product_name": "Shampoing Nord",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00076",
+        "product_name": "Lingettes Certainement",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00016",
+        "product_name": "Crème Boire",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00071",
+        "product_name": "Thon Chaleur",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00089",
+        "product_name": "Biscuits Faute",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0046",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "12:23:57",
+    "customer_id": "28f49481-a0a0-4dc4-a720-9bdf1c11f735",
+    "items": [
+      {
+        "sku": "SKU00061",
+        "product_name": "Savon Parent",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0047",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "11:43:15",
+    "customer_id": "98ae4334-6c12-4ce8-ae34-0454cac5b68c",
+    "items": [
+      {
+        "sku": "SKU00003",
+        "product_name": "Biscuits Part",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00095",
+        "product_name": "Boeuf Toucher",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00059",
+        "product_name": "Glace Disparaître",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00057",
+        "product_name": "Lait Étrange",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00010",
+        "product_name": "Déodorant Saisir",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00021",
+        "product_name": "Bananes Bien",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0048",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "21:10:51",
+    "customer_id": "988c24c9-61b1-4d22-a280-1c4510435a10",
+    "items": [
+      {
+        "sku": "SKU00086",
+        "product_name": "Éponges Manier",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00034",
+        "product_name": "Eau Rien",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00084",
+        "product_name": "Crème Baisser",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00047",
+        "product_name": "Saumon Perdu",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0049",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "20:59:26",
+    "customer_id": "405cacec-8774-49a9-b7d2-1e02ff01cf99",
+    "items": [
+      {
+        "sku": "SKU00085",
+        "product_name": "Biscuits Défendre",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00099",
+        "product_name": "Poulet Gauche",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00015",
+        "product_name": "Crème Accuser",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00087",
+        "product_name": "Confiture Absence",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00045",
+        "product_name": "Thon Note",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00021",
+        "product_name": "Bananes Bien",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0050",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "11:12:52",
+    "customer_id": "f143262f-dc5c-4eed-8da0-365bf89897b9",
+    "items": [
+      {
+        "sku": "SKU00086",
+        "product_name": "Éponges Manier",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00070",
+        "product_name": "Dentifrice Rejoindre",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00011",
+        "product_name": "Frites Remonter",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00064",
+        "product_name": "Pâtes Deviner",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00047",
+        "product_name": "Saumon Perdu",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00055",
+        "product_name": "Conserves Inviter",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00038",
+        "product_name": "Sauce tomate Montrer",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00056",
+        "product_name": "Lait infantile Chien",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0051",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "12:55:04",
+    "customer_id": "1d53434b-b881-49b9-ae27-0da702f06b90",
+    "items": [
+      {
+        "sku": "SKU00033",
+        "product_name": "Sauce tomate Réunir",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00029",
+        "product_name": "Nettoyant Poids",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00073",
+        "product_name": "Yaourt Tenir",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00015",
+        "product_name": "Crème Accuser",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00025",
+        "product_name": "Conserves Problème",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00056",
+        "product_name": "Lait infantile Chien",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0052",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "9:56:16",
+    "customer_id": "c0398710-8976-4334-a281-7efdae849217",
+    "items": [
+      {
+        "sku": "SKU00028",
+        "product_name": "Carottes Tranquille",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0053",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "12:02:06",
+    "customer_id": "5715bd6f-a416-4293-84c2-e2e3444ea7c8",
+    "items": [
+      {
+        "sku": "SKU00007",
+        "product_name": "Jus Beau",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00091",
+        "product_name": "Lait infantile Fortune",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00014",
+        "product_name": "Eau En",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00004",
+        "product_name": "Saumon Comme",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00044",
+        "product_name": "Bananes Lentement",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00059",
+        "product_name": "Glace Disparaître",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00051",
+        "product_name": "Thé Tant",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00025",
+        "product_name": "Conserves Problème",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00034",
+        "product_name": "Eau Rien",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00013",
+        "product_name": "Petits pots Saison",
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0054",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "12:02:45",
+    "customer_id": "287d06ca-6f4c-469a-8b22-d3081c8eaee9",
+    "items": [
+      {
+        "sku": "SKU00028",
+        "product_name": "Carottes Tranquille",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00041",
+        "product_name": "Crème Chair",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00087",
+        "product_name": "Confiture Absence",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00054",
+        "product_name": "Sel Moins",
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0055",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "13:27:04",
+    "customer_id": "b8db0672-f42d-47cc-80d4-af5974273ca3",
+    "items": [
+      {
+        "sku": "SKU00082",
+        "product_name": "Beurre Également",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00089",
+        "product_name": "Biscuits Faute",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00076",
+        "product_name": "Lingettes Certainement",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00090",
+        "product_name": "Laitue Parvenir",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0056",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "16:19:42",
+    "customer_id": "f8cda88b-436d-46e2-b83c-fe0be037e5ed",
+    "items": [
+      {
+        "sku": "SKU00097",
+        "product_name": "Huile Curiosité",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00051",
+        "product_name": "Thé Tant",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00095",
+        "product_name": "Boeuf Toucher",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00029",
+        "product_name": "Nettoyant Poids",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00048",
+        "product_name": "Biscuits Avancer",
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0057",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "11:26:42",
+    "customer_id": "81f76d1c-2dbc-4134-830f-f46e8026695f",
+    "items": [
+      {
+        "sku": "SKU00016",
+        "product_name": "Crème Boire",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00040",
+        "product_name": "Biscuits Cerveau",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00017",
+        "product_name": "Soda Vol",
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0058",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "12:25:35",
+    "customer_id": "a013ac6e-deda-4e16-9b3d-bd5ce9a1fa6f",
+    "items": [
+      {
+        "sku": "SKU00019",
+        "product_name": "Liquide vaisselle Baisser",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00083",
+        "product_name": "Miel Mode",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00054",
+        "product_name": "Sel Moins",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00085",
+        "product_name": "Biscuits Défendre",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00039",
+        "product_name": "Crevettes Disparaître",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00055",
+        "product_name": "Conserves Inviter",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00045",
+        "product_name": "Thon Note",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00080",
+        "product_name": "Confiture Poids",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00044",
+        "product_name": "Bananes Lentement",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00063",
+        "product_name": "Thé Nommer",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0059",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "18:13:32",
+    "customer_id": "81f631d4-a392-41a7-9777-a4774c66e0a8",
+    "items": [
+      {
+        "sku": "SKU00033",
+        "product_name": "Sauce tomate Réunir",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00081",
+        "product_name": "Crème Pleurer",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00049",
+        "product_name": "Légumes surgelés Trésor",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00059",
+        "product_name": "Glace Disparaître",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00064",
+        "product_name": "Pâtes Deviner",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00058",
+        "product_name": "Lingettes Distinguer",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00060",
+        "product_name": "Savon Ramasser",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00043",
+        "product_name": "Nettoyant Occasion",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0060",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "18:19:14",
+    "customer_id": "5fb8d16c-2720-497d-b2eb-d6899be578c7",
+    "items": [
+      {
+        "sku": "SKU00048",
+        "product_name": "Biscuits Avancer",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00073",
+        "product_name": "Yaourt Tenir",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00014",
+        "product_name": "Eau En",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00081",
+        "product_name": "Crème Pleurer",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0061",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "15:39:54",
+    "customer_id": "f4188f3f-8a14-4e62-a95b-4715c333e861",
+    "items": [
+      {
+        "sku": "SKU00072",
+        "product_name": "Crevettes Autorité",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00049",
+        "product_name": "Légumes surgelés Trésor",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00024",
+        "product_name": "Oranges Boire",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00096",
+        "product_name": "Lessive Point",
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0062",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "19:44:24",
+    "customer_id": "eb2263dd-87c5-421e-ac24-a3c5c754108f",
+    "items": [
+      {
+        "sku": "SKU00042",
+        "product_name": "Confiture Toit",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00086",
+        "product_name": "Éponges Manier",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00079",
+        "product_name": "Éponges Monter",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00058",
+        "product_name": "Lingettes Distinguer",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0063",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "20:55:49",
+    "customer_id": "7d154385-52fb-443b-9954-6eb400257ad1",
+    "items": [
+      {
+        "sku": "SKU00039",
+        "product_name": "Crevettes Disparaître",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0064",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "11:11:51",
+    "customer_id": "5cec4eb5-edd9-4831-9ca3-5cfb04fc6d82",
+    "items": [
+      {
+        "sku": "SKU00013",
+        "product_name": "Petits pots Saison",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00021",
+        "product_name": "Bananes Bien",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00090",
+        "product_name": "Laitue Parvenir",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00100",
+        "product_name": "Sucre Émotion",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00091",
+        "product_name": "Lait infantile Fortune",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00018",
+        "product_name": "Liquide vaisselle Sourire",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00001",
+        "product_name": "Boeuf Oreille",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0065",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "20:29:42",
+    "customer_id": "ce88cb2d-d4e8-4839-bc3e-058be0f3eab0",
+    "items": [
+      {
+        "sku": "SKU00073",
+        "product_name": "Yaourt Tenir",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00004",
+        "product_name": "Saumon Comme",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00001",
+        "product_name": "Boeuf Oreille",
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0066",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "20:57:28",
+    "customer_id": "3da9c2a9-0ed4-4f1a-bd4c-bf374eb93eff",
+    "items": [
+      {
+        "sku": "SKU00037",
+        "product_name": "Chocolat Peur",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00060",
+        "product_name": "Savon Ramasser",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00057",
+        "product_name": "Lait Étrange",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00020",
+        "product_name": "Riz Ensuite",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00063",
+        "product_name": "Thé Nommer",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00027",
+        "product_name": "Poisson pané Flot",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0067",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "15:16:48",
+    "customer_id": "14296c07-f26b-4776-913e-4de2e0c53cb8",
+    "items": [
+      {
+        "sku": "SKU00012",
+        "product_name": "Boeuf Entourer",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00094",
+        "product_name": "Poisson pané Rencontrer",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00031",
+        "product_name": "Porc Rapport",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00008",
+        "product_name": "Riz Inutile",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00061",
+        "product_name": "Savon Parent",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00062",
+        "product_name": "Huile Côté",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00026",
+        "product_name": "Thon Espace",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00004",
+        "product_name": "Saumon Comme",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0068",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "11:17:21",
+    "customer_id": "d0e6e660-7c69-4ee1-bb5e-4bcf15ed6269",
+    "items": [
+      {
+        "sku": "SKU00063",
+        "product_name": "Thé Nommer",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00014",
+        "product_name": "Eau En",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00046",
+        "product_name": "Biscuits Moyen",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00067",
+        "product_name": "Céréales Étranger",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00037",
+        "product_name": "Chocolat Peur",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0069",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "14:44:09",
+    "customer_id": "885f6e66-c2b6-42c5-ba5d-310011b7e948",
+    "items": [
+      {
+        "sku": "SKU00017",
+        "product_name": "Soda Vol",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00068",
+        "product_name": "Crème Bras",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00100",
+        "product_name": "Sucre Émotion",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00002",
+        "product_name": "Crème Projet",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0070",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "16:29:26",
+    "customer_id": "a8e56e0c-20de-435d-a031-d750c40db9b4",
+    "items": [
+      {
+        "sku": "SKU00027",
+        "product_name": "Poisson pané Flot",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00031",
+        "product_name": "Porc Rapport",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00063",
+        "product_name": "Thé Nommer",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00089",
+        "product_name": "Biscuits Faute",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00036",
+        "product_name": "Crème Étage",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00040",
+        "product_name": "Biscuits Cerveau",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0071",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "14:30:00",
+    "customer_id": "2a45c2ab-8cbf-4db0-b264-accc79ac1b1e",
+    "items": [
+      {
+        "sku": "SKU00005",
+        "product_name": "Porc Étonner",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00085",
+        "product_name": "Biscuits Défendre",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00053",
+        "product_name": "Glace Bas",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00057",
+        "product_name": "Lait Étrange",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00097",
+        "product_name": "Huile Curiosité",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00040",
+        "product_name": "Biscuits Cerveau",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00013",
+        "product_name": "Petits pots Saison",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00050",
+        "product_name": "Oranges Terminer",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00027",
+        "product_name": "Poisson pané Flot",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00075",
+        "product_name": "Couches Aide",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0072",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "14:31:01",
+    "customer_id": "9b49bd26-df57-459a-8715-a10343dac043",
+    "items": [
+      {
+        "sku": "SKU00005",
+        "product_name": "Porc Étonner",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00046",
+        "product_name": "Biscuits Moyen",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00089",
+        "product_name": "Biscuits Faute",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00060",
+        "product_name": "Savon Ramasser",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00023",
+        "product_name": "Pâtes Inconnu",
+        "quantity": 4
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0073",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "17:34:01",
+    "customer_id": "edcd465e-3638-4821-b6e0-7cc06c52c49f",
+    "items": [
+      {
+        "sku": "SKU00003",
+        "product_name": "Biscuits Part",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00095",
+        "product_name": "Boeuf Toucher",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00048",
+        "product_name": "Biscuits Avancer",
+        "quantity": 5
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0074",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "9:41:27",
+    "customer_id": "b09b2a5c-badc-432a-8159-0f538a0f4efb",
+    "items": [
+      {
+        "sku": "SKU00005",
+        "product_name": "Porc Étonner",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0075",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "10:03:16",
+    "customer_id": "66245bfa-4fcc-439a-b683-d2e6337ea2df",
+    "items": [
+      {
+        "sku": "SKU00044",
+        "product_name": "Bananes Lentement",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00040",
+        "product_name": "Biscuits Cerveau",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00100",
+        "product_name": "Sucre Émotion",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00079",
+        "product_name": "Éponges Monter",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00015",
+        "product_name": "Crème Accuser",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00048",
+        "product_name": "Biscuits Avancer",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00062",
+        "product_name": "Huile Côté",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00026",
+        "product_name": "Thon Espace",
+        "quantity": 3
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0076",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "12:53:05",
+    "customer_id": "5f987c71-a65e-488e-abf3-ad39fec21bbe",
+    "items": [
+      {
+        "sku": "SKU00035",
+        "product_name": "Biscuits Peur",
+        "quantity": 4
+      },
+      {
+        "sku": "SKU00093",
+        "product_name": "Lait infantile Vif",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00075",
+        "product_name": "Couches Aide",
+        "quantity": 5
+      },
+      {
+        "sku": "SKU00062",
+        "product_name": "Huile Côté",
+        "quantity": 1
+      },
+      {
+        "sku": "SKU00071",
+        "product_name": "Thon Chaleur",
+        "quantity": 3
+      },
+      {
+        "sku": "SKU00032",
+        "product_name": "Conserves Conscience",
+        "quantity": 2
+      },
+      {
+        "sku": "SKU00059",
+        "product_name": "Glace Disparaître",
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0077",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "20:01:15",
+    "customer_id": "7394988f-847f-49b4-a64d-1bcb702753a1",
+    "items": [
+      {
+        "sku": "SKU00059",
+        "product_name": "Glace Disparaître",
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": "ORD-2026-01-08-S01-0078",
+    "store_id": "STORE01",
+    "order_date": "2026-01-08",
+    "order_time": "17:09:15",
+    "customer_id": "1064005c-3985-43cf-bf76-be1d1efa2197",
+    "items": [
+      {
+        "sku": "SKU00065",
+        "product_name": "Poisson pané Flot",
+        "quantity": 2
+      }
+    ]
+  }
+]

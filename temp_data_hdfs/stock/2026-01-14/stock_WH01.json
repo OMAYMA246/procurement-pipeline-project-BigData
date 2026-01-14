@@ -1,0 +1,902 @@
+[
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00001",
+    "product_name": "Boeuf Oreille",
+    "available_quantity": 122,
+    "reserved_quantity": 1,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00002",
+    "product_name": "Crème Projet",
+    "available_quantity": 261,
+    "reserved_quantity": 36,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00003",
+    "product_name": "Biscuits Part",
+    "available_quantity": 330,
+    "reserved_quantity": 49,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00004",
+    "product_name": "Saumon Comme",
+    "available_quantity": 143,
+    "reserved_quantity": 12,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00005",
+    "product_name": "Porc Étonner",
+    "available_quantity": 410,
+    "reserved_quantity": 77,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00006",
+    "product_name": "Huile Enfin",
+    "available_quantity": 487,
+    "reserved_quantity": 81,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00007",
+    "product_name": "Jus Beau",
+    "available_quantity": 84,
+    "reserved_quantity": 8,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00008",
+    "product_name": "Riz Inutile",
+    "available_quantity": 476,
+    "reserved_quantity": 28,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00009",
+    "product_name": "Tomates Ami",
+    "available_quantity": 152,
+    "reserved_quantity": 24,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00010",
+    "product_name": "Déodorant Saisir",
+    "available_quantity": 447,
+    "reserved_quantity": 29,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00011",
+    "product_name": "Frites Remonter",
+    "available_quantity": 183,
+    "reserved_quantity": 16,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00012",
+    "product_name": "Boeuf Entourer",
+    "available_quantity": 270,
+    "reserved_quantity": 25,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00013",
+    "product_name": "Petits pots Saison",
+    "available_quantity": 304,
+    "reserved_quantity": 21,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00014",
+    "product_name": "Eau En",
+    "available_quantity": 90,
+    "reserved_quantity": 3,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00015",
+    "product_name": "Crème Accuser",
+    "available_quantity": 95,
+    "reserved_quantity": 3,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00016",
+    "product_name": "Crème Boire",
+    "available_quantity": 351,
+    "reserved_quantity": 45,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00017",
+    "product_name": "Soda Vol",
+    "available_quantity": 199,
+    "reserved_quantity": 2,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00018",
+    "product_name": "Liquide vaisselle Sourire",
+    "available_quantity": 421,
+    "reserved_quantity": 30,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00019",
+    "product_name": "Liquide vaisselle Baisser",
+    "available_quantity": 258,
+    "reserved_quantity": 28,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00020",
+    "product_name": "Riz Ensuite",
+    "available_quantity": 32,
+    "reserved_quantity": 0,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00021",
+    "product_name": "Bananes Bien",
+    "available_quantity": 266,
+    "reserved_quantity": 34,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00022",
+    "product_name": "Savon Approcher",
+    "available_quantity": 23,
+    "reserved_quantity": 1,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00023",
+    "product_name": "Pâtes Inconnu",
+    "available_quantity": 169,
+    "reserved_quantity": 19,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00024",
+    "product_name": "Oranges Boire",
+    "available_quantity": 214,
+    "reserved_quantity": 39,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00025",
+    "product_name": "Conserves Problème",
+    "available_quantity": 148,
+    "reserved_quantity": 12,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00026",
+    "product_name": "Thon Espace",
+    "available_quantity": 218,
+    "reserved_quantity": 0,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00027",
+    "product_name": "Poisson pané Flot",
+    "available_quantity": 463,
+    "reserved_quantity": 38,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00028",
+    "product_name": "Carottes Tranquille",
+    "available_quantity": 300,
+    "reserved_quantity": 51,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00029",
+    "product_name": "Nettoyant Poids",
+    "available_quantity": 30,
+    "reserved_quantity": 1,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00030",
+    "product_name": "Pommes Eh",
+    "available_quantity": 244,
+    "reserved_quantity": 25,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00031",
+    "product_name": "Porc Rapport",
+    "available_quantity": 132,
+    "reserved_quantity": 14,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00032",
+    "product_name": "Conserves Conscience",
+    "available_quantity": 141,
+    "reserved_quantity": 14,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00033",
+    "product_name": "Sauce tomate Réunir",
+    "available_quantity": 220,
+    "reserved_quantity": 37,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00034",
+    "product_name": "Eau Rien",
+    "available_quantity": 62,
+    "reserved_quantity": 10,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00035",
+    "product_name": "Biscuits Peur",
+    "available_quantity": 379,
+    "reserved_quantity": 10,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00036",
+    "product_name": "Crème Étage",
+    "available_quantity": 218,
+    "reserved_quantity": 5,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00037",
+    "product_name": "Chocolat Peur",
+    "available_quantity": 95,
+    "reserved_quantity": 5,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00038",
+    "product_name": "Sauce tomate Montrer",
+    "available_quantity": 59,
+    "reserved_quantity": 5,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00039",
+    "product_name": "Crevettes Disparaître",
+    "available_quantity": 22,
+    "reserved_quantity": 1,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00040",
+    "product_name": "Biscuits Cerveau",
+    "available_quantity": 372,
+    "reserved_quantity": 73,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00041",
+    "product_name": "Crème Chair",
+    "available_quantity": 417,
+    "reserved_quantity": 51,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00042",
+    "product_name": "Confiture Toit",
+    "available_quantity": 357,
+    "reserved_quantity": 40,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00043",
+    "product_name": "Nettoyant Occasion",
+    "available_quantity": 179,
+    "reserved_quantity": 35,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00044",
+    "product_name": "Bananes Lentement",
+    "available_quantity": 403,
+    "reserved_quantity": 52,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00045",
+    "product_name": "Thon Note",
+    "available_quantity": 363,
+    "reserved_quantity": 64,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00046",
+    "product_name": "Biscuits Moyen",
+    "available_quantity": 364,
+    "reserved_quantity": 8,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00047",
+    "product_name": "Saumon Perdu",
+    "available_quantity": 326,
+    "reserved_quantity": 5,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00048",
+    "product_name": "Biscuits Avancer",
+    "available_quantity": 21,
+    "reserved_quantity": 2,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00049",
+    "product_name": "Légumes surgelés Trésor",
+    "available_quantity": 62,
+    "reserved_quantity": 5,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00050",
+    "product_name": "Oranges Terminer",
+    "available_quantity": 266,
+    "reserved_quantity": 38,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00051",
+    "product_name": "Thé Tant",
+    "available_quantity": 113,
+    "reserved_quantity": 6,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00052",
+    "product_name": "Légumes surgelés Chambre",
+    "available_quantity": 110,
+    "reserved_quantity": 11,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00053",
+    "product_name": "Glace Bas",
+    "available_quantity": 67,
+    "reserved_quantity": 13,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00054",
+    "product_name": "Sel Moins",
+    "available_quantity": 278,
+    "reserved_quantity": 26,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00055",
+    "product_name": "Conserves Inviter",
+    "available_quantity": 365,
+    "reserved_quantity": 51,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00056",
+    "product_name": "Lait infantile Chien",
+    "available_quantity": 0,
+    "reserved_quantity": 0,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00057",
+    "product_name": "Lait Étrange",
+    "available_quantity": 51,
+    "reserved_quantity": 3,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00058",
+    "product_name": "Lingettes Distinguer",
+    "available_quantity": 263,
+    "reserved_quantity": 20,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00059",
+    "product_name": "Glace Disparaître",
+    "available_quantity": 161,
+    "reserved_quantity": 0,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00060",
+    "product_name": "Savon Ramasser",
+    "available_quantity": 392,
+    "reserved_quantity": 3,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00061",
+    "product_name": "Savon Parent",
+    "available_quantity": 85,
+    "reserved_quantity": 10,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00062",
+    "product_name": "Huile Côté",
+    "available_quantity": 402,
+    "reserved_quantity": 61,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00063",
+    "product_name": "Thé Nommer",
+    "available_quantity": 98,
+    "reserved_quantity": 16,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00064",
+    "product_name": "Pâtes Deviner",
+    "available_quantity": 5,
+    "reserved_quantity": 0,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00065",
+    "product_name": "Poisson pané Flot",
+    "available_quantity": 448,
+    "reserved_quantity": 3,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00066",
+    "product_name": "Soda Peau",
+    "available_quantity": 35,
+    "reserved_quantity": 2,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00067",
+    "product_name": "Céréales Étranger",
+    "available_quantity": 438,
+    "reserved_quantity": 37,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00068",
+    "product_name": "Crème Bras",
+    "available_quantity": 415,
+    "reserved_quantity": 45,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00069",
+    "product_name": "Glace Pain",
+    "available_quantity": 438,
+    "reserved_quantity": 59,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00070",
+    "product_name": "Dentifrice Rejoindre",
+    "available_quantity": 48,
+    "reserved_quantity": 8,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00071",
+    "product_name": "Thon Chaleur",
+    "available_quantity": 47,
+    "reserved_quantity": 5,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00072",
+    "product_name": "Crevettes Autorité",
+    "available_quantity": 286,
+    "reserved_quantity": 3,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00073",
+    "product_name": "Yaourt Tenir",
+    "available_quantity": 197,
+    "reserved_quantity": 5,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00074",
+    "product_name": "Confiture Rassurer",
+    "available_quantity": 306,
+    "reserved_quantity": 18,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00075",
+    "product_name": "Couches Aide",
+    "available_quantity": 311,
+    "reserved_quantity": 36,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00076",
+    "product_name": "Lingettes Certainement",
+    "available_quantity": 394,
+    "reserved_quantity": 74,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00077",
+    "product_name": "Nettoyant Éprouver",
+    "available_quantity": 59,
+    "reserved_quantity": 3,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00078",
+    "product_name": "Thon Dehors",
+    "available_quantity": 467,
+    "reserved_quantity": 51,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00079",
+    "product_name": "Éponges Monter",
+    "available_quantity": 320,
+    "reserved_quantity": 47,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00080",
+    "product_name": "Confiture Poids",
+    "available_quantity": 18,
+    "reserved_quantity": 2,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00081",
+    "product_name": "Crème Pleurer",
+    "available_quantity": 172,
+    "reserved_quantity": 7,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00082",
+    "product_name": "Beurre Également",
+    "available_quantity": 294,
+    "reserved_quantity": 6,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00083",
+    "product_name": "Miel Mode",
+    "available_quantity": 343,
+    "reserved_quantity": 28,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00084",
+    "product_name": "Crème Baisser",
+    "available_quantity": 426,
+    "reserved_quantity": 73,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00085",
+    "product_name": "Biscuits Défendre",
+    "available_quantity": 210,
+    "reserved_quantity": 34,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00086",
+    "product_name": "Éponges Manier",
+    "available_quantity": 224,
+    "reserved_quantity": 5,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00087",
+    "product_name": "Confiture Absence",
+    "available_quantity": 256,
+    "reserved_quantity": 27,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00088",
+    "product_name": "Yaourt Mémoire",
+    "available_quantity": 407,
+    "reserved_quantity": 63,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00089",
+    "product_name": "Biscuits Faute",
+    "available_quantity": 39,
+    "reserved_quantity": 7,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00090",
+    "product_name": "Laitue Parvenir",
+    "available_quantity": 3,
+    "reserved_quantity": 0,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00091",
+    "product_name": "Lait infantile Fortune",
+    "available_quantity": 328,
+    "reserved_quantity": 39,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00092",
+    "product_name": "Shampoing Nord",
+    "available_quantity": 312,
+    "reserved_quantity": 60,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00093",
+    "product_name": "Lait infantile Vif",
+    "available_quantity": 75,
+    "reserved_quantity": 6,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00094",
+    "product_name": "Poisson pané Rencontrer",
+    "available_quantity": 362,
+    "reserved_quantity": 20,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00095",
+    "product_name": "Boeuf Toucher",
+    "available_quantity": 384,
+    "reserved_quantity": 71,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00096",
+    "product_name": "Lessive Point",
+    "available_quantity": 464,
+    "reserved_quantity": 91,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00097",
+    "product_name": "Huile Curiosité",
+    "available_quantity": 488,
+    "reserved_quantity": 46,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00098",
+    "product_name": "Lingettes Discuter",
+    "available_quantity": 8,
+    "reserved_quantity": 1,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00099",
+    "product_name": "Poulet Gauche",
+    "available_quantity": 470,
+    "reserved_quantity": 89,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  },
+  {
+    "warehouse_code": "WH01",
+    "sku": "SKU00100",
+    "product_name": "Sucre Émotion",
+    "available_quantity": 51,
+    "reserved_quantity": 9,
+    "snapshot_date": "2026-01-14",
+    "snapshot_time": "23:59:59"
+  }
+]

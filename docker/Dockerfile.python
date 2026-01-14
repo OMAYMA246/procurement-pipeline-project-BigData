@@ -1,0 +1,66 @@
+FROM python:3.11-slim
+
+WORKDIR /app
+
+# =========================
+# Dépendances système
+# =========================
+RUN apt-get update && apt-get install -y \
+    gcc \
+    postgresql-client \
+    wget \
+    curl \
+    rsync \
+    openssh-client \
+    openjdk-21-jre \
+    && rm -rf /var/lib/apt/lists/*
+
+
+# Dans docker/Dockerfile.python ou votre Dockerfile
+RUN pip install trino==0.324.0 pandas==2.0.3
+# =========================
+# JAVA
+# =========================
+ENV JAVA_HOME=/usr/lib/jvm/java-17-openjdk-amd64
+ENV PATH=$PATH:$JAVA_HOME/bin
+
+# =========================
+# HADOOP
+# =========================
+RUN wget https://downloads.apache.org/hadoop/common/hadoop-3.3.6/hadoop-3.3.6.tar.gz -O /tmp/hadoop.tar.gz && \
+    tar -xzf /tmp/hadoop.tar.gz -C /opt && \
+    mv /opt/hadoop-3.3.6 /opt/hadoop && \
+    rm /tmp/hadoop.tar.gz
+
+ENV HADOOP_HOME=/opt/hadoop
+ENV PATH=$PATH:$HADOOP_HOME/bin:$HADOOP_HOME/sbin
+
+FROM python:3.9-slim
+
+# Java (obligatoire pour Hadoop)
+RUN apt-get update && apt-get install -y \
+    openjdk-11-jre-headless \
+    wget \
+    procps \
+    && rm -rf /var/lib/apt/lists/*
+
+# Hadoop client
+ENV HADOOP_VERSION=3.2.1
+RUN wget https://archive.apache.org/dist/hadoop/common/hadoop-${HADOOP_VERSION}/hadoop-${HADOOP_VERSION}.tar.gz && \
+    tar -xzf hadoop-${HADOOP_VERSION}.tar.gz && \
+    mv hadoop-${HADOOP_VERSION} /opt/hadoop && \
+    rm hadoop-${HADOOP_VERSION}.tar.gz
+
+ENV HADOOP_HOME=/opt/hadoop
+ENV PATH=$PATH:$HADOOP_HOME/bin
+ENV JAVA_HOME=/usr/lib/jvm/java-11-openjdk-amd64
+
+WORKDIR /app
+
+# =========================
+# Python deps
+# =========================
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+CMD ["tail", "-f", "/dev/null"]

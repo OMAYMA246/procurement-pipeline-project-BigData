@@ -1,0 +1,15 @@
+{
+  "supplier_id": 2,
+  "order_date": "2026-01-10",
+  "order_reference": "ORD-2026-01-10-SUP002",
+  "total_items": 1,
+  "total_quantity": 27,
+  "items": [
+    {
+      "sku": "SKU00006",
+      "product_name": "Huile Enfin",
+      "net_demand": 27,
+      "order_quantity": 27
+    }
+  ]
+}

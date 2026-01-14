@@ -1,0 +1,170 @@
+services:
+  # =========================
+  # POSTGRESQL
+  # =========================
+  postgres:
+    image: postgres:14-alpine
+    container_name: procurement_postgres
+    hostname: postgres
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: procurement_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./database/init_scripts:/docker-entrypoint-initdb.d
+    networks:
+      - procurement_network
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d procurement_db"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+
+
+  # =========================
+  # HDFS NAMENODE
+  # =========================
+  namenode:
+    image: bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java8
+    container_name: procurement_namenode
+    hostname: namenode
+    environment:
+      - CLUSTER_NAME=procurement_cluster
+      - CORE_CONF_fs_defaultFS=hdfs://namenode:9000
+      - CORE_CONF_hadoop_http_staticuser_user=root
+      - HDFS_CONF_dfs_permissions_enabled=false
+      - HDFS_CONF_dfs_webhdfs_enabled=true
+    ports:
+      - "9870:9870"
+      - "9000:9000"
+    volumes:
+      - namenode_data:/hadoop/dfs/name
+      - ./data:/data
+    networks:
+      - procurement_network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9870"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+
+  # =========================
+  # HDFS DATANODE 1
+  # =========================
+  datanode1:
+    image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
+    container_name: procurement_datanode1
+    hostname: datanode1
+    environment:
+      - CORE_CONF_fs_defaultFS=hdfs://namenode:9000
+      - CORE_CONF_hadoop_http_staticuser_user=root
+      - HDFS_CONF_dfs_replication=2
+    volumes:
+      - datanode1_data:/hadoop/dfs/data
+    depends_on:
+      namenode:
+        condition: service_healthy
+    networks:
+      - procurement_network
+
+  # =========================
+  # HDFS DATANODE 2
+  # =========================
+  datanode2:
+    image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
+    container_name: procurement_datanode2
+    hostname: datanode2
+    environment:
+      - CORE_CONF_fs_defaultFS=hdfs://namenode:9000
+      - CORE_CONF_hadoop_http_staticuser_user=root
+      - HDFS_CONF_dfs_replication=2
+    volumes:
+      - datanode2_data:/hadoop/dfs/data
+    depends_on:
+      namenode:
+        condition: service_healthy
+    networks:
+      - procurement_network
+
+  # =========================
+  # TRINO
+  # =========================
+  trino:
+    image: trinodb/trino:400
+    container_name: procurement_trino
+    hostname: trino
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./config/presto/config.properties:/etc/trino/config.properties
+      - ./config/presto/catalog:/etc/trino/catalog
+      - ./config/presto/core-site.xml:/etc/trino/core-site.xml
+    depends_on:
+      namenode:
+        condition: service_healthy
+      postgres:
+        condition: service_healthy
+    networks:
+      - procurement_network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8080/v1/info"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+
+  # =========================
+  # PYTHON / ORCHESTRATION
+  # =========================
+  python_env:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile.python
+    container_name: procurement_python
+    hostname: orchestrator
+    working_dir: /app
+    volumes:
+      - ./:/app
+      - ./data:/app/data
+      - ./logs:/app/logs
+    environment:
+      - HDFS_NAMENODE=hdfs://namenode:9000
+      - POSTGRES_HOST=postgres
+      - POSTGRES_PORT=5432
+      - POSTGRES_DB=procurement_db
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - TRINO_HOST=trino
+      - TRINO_PORT=8080
+      - TZ=Africa/Casablanca
+    depends_on:
+      namenode:
+        condition: service_healthy
+      postgres:
+        condition: service_healthy
+      trino:
+        condition: service_healthy
+    networks:
+      - procurement_network
+    command: tail -f /dev/null
+    stdin_open: true
+    tty: true
+
+# =========================
+# VOLUMES
+# =========================
+volumes:
+  postgres_data:
+  namenode_data:
+  datanode1_data:
+  datanode2_data:
+
+# =========================
+# NETWORK
+# =========================
+networks:
+  procurement_network:
+    driver: bridge

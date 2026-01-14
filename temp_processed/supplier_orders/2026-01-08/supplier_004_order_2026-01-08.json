@@ -1,0 +1,15 @@
+{
+  "supplier_id": 4,
+  "order_date": "2026-01-08",
+  "order_reference": "ORD-2026-01-08-SUP004",
+  "total_items": 1,
+  "total_quantity": 36,
+  "items": [
+    {
+      "sku": "SKU00082",
+      "product_name": "Beurre Également",
+      "net_demand": 40,
+      "order_quantity": 36
+    }
+  ]
+}

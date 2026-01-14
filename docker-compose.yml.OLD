@@ -1,0 +1,79 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15
+    container_name: procurement_postgres
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: procurement_db
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./database/init_scripts:/docker-entrypoint-initdb.d
+    networks:
+      - procurement_network
+
+  namenode:
+    image: bde2020/hadoop-namenode:2.0.0-hadoop3.2.1-java8
+    container_name: procurement_namenode
+    environment:
+      - CLUSTER_NAME=procurement_cluster
+      - CORE_CONF_fs_defaultFS=hdfs://namenode:9000
+    ports:
+      - "9870:9870"
+      - "9000:9000"
+    volumes:
+      - namenode_data:/hadoop/dfs/name
+      - ./data:/data
+    networks:
+      - procurement_network
+
+  datanode:
+    image: bde2020/hadoop-datanode:2.0.0-hadoop3.2.1-java8
+    container_name: procurement_datanode
+    environment:
+      - CORE_CONF_fs_defaultFS=hdfs://namenode:9000
+    volumes:
+      - datanode_data:/hadoop/dfs/data
+    depends_on:
+      - namenode
+    networks:
+      - procurement_network
+
+  hive-metastore-postgresql:
+    image: bde2020/hive-metastore-postgresql:2.3.0
+    container_name: procurement_hive_postgres
+    networks:
+      - procurement_network
+
+  hive-metastore:
+    image: bde2020/hive:2.3.2-postgresql-metastore
+    container_name: procurement_hive_metastore
+    environment:
+      - SERVICE_PRECONDITION=namenode:9000 datanode:9864 hive-metastore-postgresql:5432
+      - CORE_CONF_fs_defaultFS=hdfs://namenode:9000
+      - HIVE_SITE_CONF_javax_jdo_option_ConnectionURL=jdbc:postgresql://hive-metastore-postgresql:5432/metastore
+      - HIVE_SITE_CONF_javax_jdo_option_ConnectionDriverName=org.postgresql.Driver
+      - HIVE_SITE_CONF_javax_jdo_option_ConnectionUserName=postgres
+      - HIVE_SITE_CONF_javax_jdo_option_ConnectionPassword=postgres
+    command: /opt/hive/bin/hive --service metastore
+    ports:
+      - "9083:9083"
+    depends_on:
+      - namenode
+      - datanode
+      - hive-metastore-postgresql
+    networks:
+      - procurement_network
+
+volumes:
+  postgres_data:
+  namenode_data:
+  datanode_data:
+
+networks:
+  procurement_network:
+    driver: bridge
