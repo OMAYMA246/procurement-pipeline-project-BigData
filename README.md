@@ -242,7 +242,7 @@ docker exec -it procurement_trino trino --execute "CREATE SCHEMA IF NOT EXISTS h
 
 - **Votre Nom** - Projet académique - Université Abdelmalek Essaâdi
 - **Module** : Fondements Big Data
-- **Encadré par** : Mohamed El Marouani
+- **Encadré par** :Mr. Mohamed El Marouani
 
 ---
 
